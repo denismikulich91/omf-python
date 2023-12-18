@@ -1,4 +1,4 @@
-omf
+omf (DMH5 brench)
 ***
 
 .. image:: https://img.shields.io/pypi/v/omf.svg
