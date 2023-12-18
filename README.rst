@@ -93,3 +93,9 @@ mesh objects for 3D visualization and analysis.
 
 .. _omfvista: https://github.com/OpenGeoVis/omfvista
 .. _PyVista: https://github.com/pyvista/pyvista
+
+Useful links
+------------
+
+OMF API description: https://omf.readthedocs.io/en/latest/content/api.html
+OMF Overview: https://www.seequent.com/the-open-mining-format/
