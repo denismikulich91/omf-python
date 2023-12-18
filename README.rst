@@ -98,4 +98,5 @@ Useful links
 ------------
 
 OMF API description: https://omf.readthedocs.io/en/latest/content/api.html
+
 OMF Overview: https://www.seequent.com/the-open-mining-format/
