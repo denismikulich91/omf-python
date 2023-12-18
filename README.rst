@@ -1,6 +1,5 @@
-omf 
-(DMH5 branch)
-***
+OMF - DMH5 branch
+------------
 
 .. image:: https://img.shields.io/pypi/v/omf.svg
     :target: https://pypi.org/project/omf/
