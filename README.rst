@@ -1,4 +1,5 @@
-omf (DMH5 brench)
+omf 
+(DMH5 branch)
 ***
 
 .. image:: https://img.shields.io/pypi/v/omf.svg
